@@ -1,20 +1,20 @@
 word,type
 operations,leading
-new service,leading
+new_service,leading
 stores,leading
 deal,leading
 passenger,leading
 partnership,leading
-new customer,leading
+new_customer,leading
 product,leading
 production,leading
 cds,leading
-joint venture,leading
+joint_venture,leading
 partner,leading
 operation,leading
 investment,leading
-new factory,leading
-new store,leading
+new_factory,leading
+new_store,leading
 properties,leading
 capacity,leading
 person,leading
@@ -24,15 +24,15 @@ workers,leading
 people,leading
 factory,leading
 occupancy,leading
-number of outlets,leading
+number_of_outlets,leading
 equipment,leading
 efficiencies,pos
 employee,leading
 workforce,leading
 staff,leading
-load factor,leading
-new deal,leading
-customer satisfaction,leading
+load_factor,leading
+new_deal,leading
+customer_satisfaction,leading
 customers,leading
 jobs,leading
 offering,leading
@@ -41,7 +41,7 @@ contracts,leading
 worker,leading
 price,leading
 material,leading
-new plant,leading
+new_plant,leading
 agreement,leading
 outlets,leading
 plant,leading
@@ -50,9 +50,9 @@ job,leading
 traffic,leading
 demand,leading
 prices,leading
-occupancy rate,leading
+occupancy_rate,leading
 tariff,leading
-new subscriber,leading
+new_subscriber,leading
 customer,leading
 passengers,leading
 patent,leading
@@ -61,69 +61,81 @@ employees,leading
 utilization,leading
 contract,leading
 productivity,leading
-new product,leading
+new_product,leading
 store,leading
 venture,leading
 output,leading
 headcount,leading
 investments,leading
 patents,leading
-raw material,leading
+raw_material,leading
 gdp,lagging
 roi,lagging
 ordered,lagging
 revenue,lagging
 orders,lagging
 money,lagging
-profit before tax,lagging
+profit_before_tax,lagging
 eps,lagging
 export,lagging
-net sale,lagging
+net_sale,lagging
 margins,lagging
 inventories,lagging
 ebitda,lagging
-net sales,lagging
+net_sales,lagging
 pat,lagging
 profit,lagging
 sale,lagging
-return on investment,lagging
+return_on_investment,lagging
 profitability,pos
-inventory turns,lagging
-return equity,lagging
+inventory_turns,lagging
+return_equity,lagging
 inventory,lagging
 interest,lagging
 income,lagging
 performance,lagging
-operating result,lagging
-market share,lagging
-inventory turn,lagging
+operating_result,lagging
+market_share,lagging
+inventory_turn,lagging
 exports,lagging
 earnings,lagging
 equity,lagging
 sales,lagging
 volume,lagging
-sales volume,lagging
+sales_volume,lagging
 earning,lagging
-sales numbers,lagging
+sales_numbers,lagging
 dividend,lagging
 ebit,lagging
-operating profit,lagging
+operating_profit,lagging
 pbt,lagging
-cash flow,lagging
+cash_flow,lagging
 revenues,lagging
-return on capital,lagging
-order size,lagging
+return_on_capital,lagging
+order_size,lagging
 cash,lagging
-return capital,lagging
-profit after tax,lagging
+return_capital,lagging
+profit_after_tax,lagging
 profits,lagging
 turnover,lagging
-return investment,lagging
-return on equity,lagging
+return_investment,lagging
+return_on_equity,lagging
 margin,lagging
 order,lagging
-order frequency,lagging
-earnings per share,lagging
+order_frequency,lagging
+earnings_per_share,lagging
+loss,neg
+consumption,lagging-rev
+tax,lagging-rev
+operating_expense,lagging-rev
+costs,lagging-rev
+taxes,lagging-rev
+expenses,lagging-rev
+operating_loss,lagging-rev
+cost,lagging-rev
+operating_cost,lagging-rev
+net_loss,lagging-rev
+expense,lagging-rev
 win-win,up
 rocketed,up
 rocket,up
@@ -156,7 +168,6 @@ increases,up
 burden,neg
 fall,down
 quadrupled,up
-loss,neg
 shutted,down
 lost,neg
 outperform,pos
