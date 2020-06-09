@@ -11,6 +11,10 @@ The aim of this project is to give retail investors access to statistics describ
 
 This respository will focus on the development of a sentiment analysis algorithm to perform inference, as well as deploying the final algorithm so it can be integrated within a web application. The chosen model was deployed to an AWS Sagemaker endpoint. The source code for the web application, is avaliable in a seperate repository. 
 
+The WebApp: https://fin-sent.herokuapp.com/
+
+A username and password can be provided for the web application on request. 
+
 ### Included in this repository
 
 #### Folder Structure
