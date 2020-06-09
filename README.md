@@ -38,10 +38,6 @@ notebooks
 * 10 Experiment 6 TFIDF with SupportVectorClassifier & HierarchicalClassification.ipynb -- one of seven experiments conducted
 * 11 Experiment 7 Ensemble & HierarchicalClassification.ipynb -- one of seven experiments conducted
 * 12 Results.ipynb -- final results and model comparrison
-
-deployment
-* Deployment.ipynb -- deployment of final solution
-* source_sklearn/ -- folder contianing model entry point scripts
         
 scripts
 * Test Scripts.ipynb -- notebook to run all test scripts
@@ -52,7 +48,12 @@ scripts
 * ensemble.py - custom ensemble classifier
 * evaluator.py -- custom evaluation script
 * helpers.py -- custom helper functions, predominantly used in association_rules.py and preprocessing notebook
-* hierarchical_classifier.py -- custom hierarchical classifier   
+* hierarchical_classifier.py -- custom hierarchical classifier  
+
+deployment
+* Deployment.ipynb -- deployment of final solution
+* source_sklearn/ -- folder contianing model entry point scripts
+ 
         
 ### Dataset
 * Financial phrase bank: https://www.researchgate.net/publication/251231364_FinancialPhraseBank-v10
