@@ -45,7 +45,7 @@ jupyterlab==1.2.12
 jupyterlab-git==0.10.1
 jupyterlab-server==1.1.1
 MarkupSafe==1.1.1
-mistune==0.8.4
+mistune==2.0.3
 mock==3.0.5
 nb-conda==2.2.1
 nb-conda-kernels==2.2.3
